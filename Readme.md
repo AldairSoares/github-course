@@ -1,1 +1,2 @@
-Novo arquivo.  
+Novo arquivo. 
+Este é um repositório teste para ensinar como o git funciona.  
